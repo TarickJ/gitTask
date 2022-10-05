@@ -1,1 +1,5 @@
-alert("Git is Awesome!");
+function addInput() {
+  alert("Git is Awesome!");
+}
+
+
